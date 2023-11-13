@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ .dialogue {
+  border-left: 8px solid rgba(0, 0, 0, 0.6);
+  padding: 16px 0 16px 24px;
+  margin: 32px 0;
+ }
+
+ .dialogue-coach {
+  background-color: rgba(184, 130, 37, 0.1);
+ }
+
+ a {
+  text-decoration: none !important;
+ }
